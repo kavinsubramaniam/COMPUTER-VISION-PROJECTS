@@ -1,3 +1,6 @@
 [submodule "CV01-PAN-CARD-TAMPERING-DETECTION"]
 	path = CV01-PAN-CARD-TAMPERING-DETECTION
 	url = https://github.com/kavinsubramaniam/CV01-PAN-CARD-TAMPERING-DETECTION.git
+[submodule "CV02-DOG-BREED-CLASSIFICATION"]
+	path = CV02-DOG-BREED-CLASSIFICATION
+	url = https://github.com/kavinsubramaniam/CV02-DOG-BREED-CLASSIFICATION.git
